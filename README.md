@@ -1,8 +1,9 @@
 # LDFNet
-This repository contains the implementation details of our paper:
+This repository contains the implementation details of our paper:  
 "Incorporating Luminance, Depth and Color Information by Fusion-based Networks for Semantic Segmentation"  
-by Shang-Wei Hung, Shao-Yuan Lo
-
+by Shang-Wei Hung, Shao-Yuan Lo  
+  
+![image](https://github.com/shangweihung/LDFNet/blob/master/Model_Photos/LDFNet_Overview.PNG)
 
 # Dependencies
 Python  
@@ -12,7 +13,8 @@ Pytorch
 # Network Structure
 LDFNet adopts two distinctive sub-networks in a parallel manner to process multiple information.  
 Also, LDFNet employs the luminance information to assist the processing of the depth information in the D&Y encoder.  
-
+  
+![image](https://github.com/shangweihung/LDFNet/blob/master/Model_Photos/LDFNet_Structure.PNG)
 
 # Evaluation
 LDFNet achieves a mIoU scores of 71.3 on the cityscapes dataset without any pretrained model.  
