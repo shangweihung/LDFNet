@@ -16,7 +16,7 @@ Also, LDFNet employs the luminance information to assist the processing of the d
 ![image](https://github.com/shangweihung/LDFNet/blob/master/Model_Photos/LDFNet_Structure.PNG)
 
 # Evaluation
-LDFNet achieves a mIoU scores of **71.3 %** on the cityscapes dataset without any pretrained model.  
+LDFNet achieves a mIoU scores of **71.3 %** on the Cityscapes dataset without any pretrained model.  
 For the resolution 512x1024 input, LDFNet can run at the speed of **20.6** and **27.7**FPS on a singel Titan X and GTX 1080 Ti, respectively.  
 
 
