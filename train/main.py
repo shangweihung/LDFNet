@@ -392,7 +392,7 @@ if __name__ == '__main__':
     parser.add_argument('--state')  # default=None
 
     parser.add_argument('--mainRoute', default="************************")  # change the path to your main file
-    parser.add_argument('--model', default="DFGNet.py")
+    parser.add_argument('--model', default="LDFNet.py")                     # specify your own network file here
     parser.add_argument('--modelRoute', default="models/")
     parser.add_argument('--saveDir', default="test")  # equivalent to --loadDir of eval scripts
     parser.add_argument('--port', type=int, default=8097)	
