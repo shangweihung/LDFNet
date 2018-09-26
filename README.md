@@ -19,6 +19,11 @@ Also, LDFNet employs the luminance information to assist the processing of the d
 LDFNet achieves a mIoU scores of **71.3 %** on the Cityscapes dataset without any pretrained model.  
 For the resolution 512x1024 input, LDFNet can run at the speed of **20.6** and **27.7**FPS on a singel Titan X and GTX 1080 Ti, respectively.  
 
+# Implementation:
+Flow the steps presented below:
+* Download "train" and "model" files.  
+* Set the global file path in the very bottom of "main.py" in "train" file.  
+* Create "save" file in your global file, and the trained model and the validation results will be saved in the file you specify.  
 
 # Citing LDFNet
 If you feel our LDFNet is useful for your research, please consider citying our paper:  
