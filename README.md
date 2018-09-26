@@ -22,6 +22,7 @@ For the resolution 512x1024 input, LDFNet can run at the speed of **20.6** and *
 # Implementation:
 Flow the steps presented below:
 * Download "train" and "model" files.  
+* Create your own global file and put "train" and "model" in it.
 * Set the global file path in the very bottom of "main.py" in "train" file.  
 * Create "save" file in your global file, and the trained model and the validation results will be saved in the file you specify.  
 
