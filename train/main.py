@@ -1,8 +1,5 @@
 
-# Main code for training ERFNet model in Cityscapes dataset
-# Sept 2017
-# Eduardo Romera
-#
+# Main code for training LDFNet model in Cityscapes dataset
 # Shang Wei Hung modified in June. 2018 for LDFNet
 #######################
 
