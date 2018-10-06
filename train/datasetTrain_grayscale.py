@@ -1,8 +1,4 @@
-# dataset for eval
-# Code with dataset loader for VOC12, Cityscapes and CamVid (adapted from bodokaiser/piwise code)
-# Sept 2017
-# Eduardo Romera
-#
+# Code with dataset loader for Cityscapes
 # Shang Wei Hung modified in Juky 2018 for LDFNet purpose
 #######################
 
