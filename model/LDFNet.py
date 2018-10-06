@@ -1,8 +1,5 @@
 
-# MyModel full model definition for Pytorch
-# Sept 2017
-# Eduardo Romera
-
+# LDFNet full model definition for Pytorch
 # Shang-Wei Hung modified in Aug. 2018
 #######################
 
