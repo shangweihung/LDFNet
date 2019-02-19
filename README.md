@@ -1,7 +1,7 @@
 # LDFNet
 This repository contains the implementation details of our paper: [[arXiv:1809.09077]](https://arxiv.org/abs/1809.09077)  
-"**Incorporating Luminance, Depth and Color Information by Fusion-based Networks for Semantic Segmentation**"  
-by [Shang-Wei Hung](https://github.com/shangweihung)  , [Shao-Yuan Lo](https://github.com/shaoyuanlo)    
+"**Incorporating Luminance, Depth and Color Information by a Fusion-based Networks for Semantic Segmentation**"  
+by [Shang-Wei Hung](https://github.com/shangweihung)  , [Shao-Yuan Lo](https://github.com/shaoyuanlo), Hsueh-Ming Hang      
 
 ![image](https://github.com/shangweihung/LDFNet/blob/master/Model_Photos/LDFNet_Overview.PNG)
 
@@ -29,4 +29,4 @@ Flow the steps presented below:
 # Citing LDFNet
 If you feel our LDFNet is useful for your research, please consider citing our paper:  
   
-* S.-W. Hung and S.-Y. Lo, “Incorporating Luminance, Depth and Color Information by Fusion-based Networks for Semantic Segmentation,” arXiv preprint arXiv: 1809.09077, 2018.  
+* S.-W. Hung, S.-Y. Lo and H.-M. Hang, “Incorporating Luminance, Depth and Color Information by a Fusion-based Networks for Semantic Segmentation,” arXiv preprint arXiv: 1809.09077, 2018.  
