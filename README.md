@@ -28,5 +28,5 @@ Flow the steps presented below:
 
 # Citing LDFNet
 If you feel our LDFNet is useful for your research, please consider citing our paper:  
-  
-* S.-W. Hung, S.-Y. Lo and H.-M. Hang, “Incorporating Luminance, Depth and Color Information by a Fusion-based Networks for Semantic Segmentation,” arXiv preprint arXiv: 1809.09077, 2018.  
+    
+* S.-W. Hung, S.-Y. Lo and H.-M. Hang, “Incorporating Luminance, Depth and Color Information by a Fusion-based Network for Semantic Segmentation,” in International Conference on Image Processing, 2019.
